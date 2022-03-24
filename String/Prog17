@@ -1,0 +1,11 @@
+Write a script to enter any sentence and print those word which is palindrom. Also print total number of palindrom word.
+
+Eg:  naman study in aba school
+
+Output
+=========
+
+naman
+aba
+
+Total 2 palindrom word in string: {naman, aba} 
